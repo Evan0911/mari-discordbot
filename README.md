@@ -7,3 +7,4 @@ When the bot is on your server, type ```!hangman``` wherever you want to play wi
 
 
 *powered by [random word API](https://api-ninjas.com/)*
+...
